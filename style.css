@@ -44,21 +44,11 @@ nav {
   border: solid black 5px;
 }
 
-.strokeme {
-  color: white;
-  background-color: red;
-  text-shadow: -2px -2px 0 #000, 2px -2px 0 #000, -2px 2px 0 #000, 2px 2px 0 #000;
-}
-
 h1 {
   color: red;
   display: inline-block;
   width: 62%;
   border: solid black 5px;
-}
-
-* {
-  font-family: "Pirata One", sans-serif;
 }
 
 body {
@@ -73,3 +63,12 @@ h3 {
   border: black solid 5px;
 }
 
+.strokeme {
+  color: white;
+  background-color: red;
+  text-shadow: -2px -2px 0 #000, 2px -2px 0 #000, -2px 2px 0 #000, 2px 2px 0 #000;
+}
+
+* {
+  font-family: "Pirata One", sans-serif;
+}
