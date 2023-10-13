@@ -1,0 +1,75 @@
+ol,ul {
+  font-weight: bold;
+  font-size: 20px;
+  background-color: white;
+  display: inline-block;
+  width: 62%;
+  font-family: "Pirata One", sans-serif;
+  border: solid black 5px;
+}
+
+
+a {
+  font-size: larger;
+  font-size: 20px;
+  color: white;
+  display: inline-block;
+  margin-left: 40px;
+  margin-right: 40px;
+  font-family: "Pirata One", sans-serif;
+}
+
+img {
+  width: 58%;
+  border: black solid 10px;
+  margin: 10px;
+  height: 300px;
+}
+
+p {
+  font-size: 30px;
+  font-weight: bold;
+  display: inline-block;
+  width: 62%;
+  background-color: red;
+  border: solid black 5px;
+}
+
+
+nav {
+  background-color: red;
+  display: inline-block;
+  width: 62%;
+  font-family: "Pirata One", sans-serif;
+  border: solid black 5px;
+}
+
+.strokeme {
+  color: white;
+  background-color: red;
+  text-shadow: -2px -2px 0 #000, 2px -2px 0 #000, -2px 2px 0 #000, 2px 2px 0 #000;
+}
+
+h1 {
+  color: red;
+  display: inline-block;
+  width: 62%;
+  border: solid black 5px;
+}
+
+* {
+  font-family: "Pirata One", sans-serif;
+}
+
+body {
+  background-image: url(images/luffy\ main\ page\ extra2.jpeg);
+}
+
+h3 {
+  background-color: white;
+  display: inline-block;
+  width: 62%;
+  font-family: "Pirata One", sans-serif;
+  border: black solid 5px;
+}
+
